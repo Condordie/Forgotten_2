@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"environmentLevel3",
+  "%Name":"environmentLevel30",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":47.68,
-  "name":"environmentLevel3",
+  "name":"environmentLevel30",
   "parent":{
     "name":"Music",
     "path":"folders/Sonidos/Music.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"environmentLevel3.wav",
+  "soundFile":"environmentLevel30.wav",
   "type":0,
   "volume":1.0,
 }
