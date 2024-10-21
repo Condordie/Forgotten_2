@@ -37,7 +37,7 @@
     {"name":"Combat","order":2,"path":"sounds/Combat/Combat.yy",},
     {"name":"environment2","order":3,"path":"sounds/environment2/environment2.yy",},
     {"name":"environmentLevel2","order":4,"path":"sounds/environmentLevel2/environmentLevel2.yy",},
-    {"name":"environmentLevel301","order":5,"path":"sounds/environmentLevel301/environmentLevel301.yy",},
+    {"name":"environmentLevel3","order":5,"path":"sounds/environmentLevel3/environmentLevel3.yy",},
     {"name":"spr_Atextbox","order":3,"path":"sprites/spr_Atextbox/spr_Atextbox.yy",},
     {"name":"Spr_bunny_face","order":2,"path":"sprites/Spr_bunny_face/Spr_bunny_face.yy",},
     {"name":"spr_bush_1","order":6,"path":"sprites/spr_bush_1/spr_bush_1.yy",},
